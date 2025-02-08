@@ -112,10 +112,10 @@ label {
   height: 100%;
   background: conic-gradient(
     rgb(0, 255, 17),
-    rgb(0, 132, 0),
+    rgb(0, 4, 132),
     rgba(255, 0, 0, 0.961),
     orange,
-    #10e3b9,
+    #b910e3,
     rgb(0, 255, 17)
   );
   background-size: 50% 100%;
